@@ -13,5 +13,5 @@ DESIGNING
 
 
 
-Here is the link for the ^ ~ in package.json http://blog.nodejitsu.com/package-dependencies-done-right/8:40 PM
+Here is the link for the ^ ~ in package.json http://blog.nodejitsu.com/package-dependencies-done-right/
 Here is the npm install command with details. --save-dev is used to save develop dependencies while --save is used to save prod dependencies https://www.npmjs.org/doc/cli/npm-install.html
